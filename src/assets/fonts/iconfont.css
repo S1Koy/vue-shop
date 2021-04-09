@@ -1,0 +1,25 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1615107848120'); /* IE9 */
+  src: url('iconfont.eot?t=1615107848120#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAO8AAsAAAAAB9wAAANvAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDBgqDRIMdATYCJAMMCwgABCAFhG0HNxvkBhHVm+PIfhTGMbHOKurtrJc3oWq370PwPG/nd+68N9kJPogKXsrVZOVeFahKCNYVhATA5maoX0ZFKJbkPPhfviPtJlwIP3yey+ldQ3x+y3KZY/lRL8A4oID2xrZQWiABeR+wofs5DQFcpFOKtGzdsScWGnOSADJx3JhhWBkLuqFesBAcFSs1sg4Ty1huXAPWBt+XN5SJBQamwpzZdXSrkTR9bj5vquyQzUCPQDqdC+DXgQJKAQ0yuNLTFxVlSlG4VI1uLnegEYyp4qFQINF0jo3+8QwQB2atB4BCzBrw3HT4EHjeNIsBXP86cAAuYBVwmZixb2RiRiY5IyXC5XGmjNm8fcPGOOwdK3eJ7PKe7eOSQKC3z9cT1+FbqcbG25URx+5mqE13Rvv9vfBIMDjOPu0KX3FWlPdcQcSWMxjDVgR6F5cEgyv9vYoKfb7ht/0rgz3uBFb4+kziCgb79Frh8/U/fMu+vfKu987IgBTva/tKdxRdCkrgeW/f0562v9muUCu4dHHao8qoXtm9oiqzyqJ+7isYZoxYuHC4WEJvpDFiWIE92pphjbazg161ud1l0iTpPmzJMFcYlmz8lpSU7bhmJFJ/AIkz+PufcL5nm84VlW07n+sZjI2VFSQMeqw/fn99490bGt9/gMrdUc/Pu1tK/wHSQlr27w8iQdXfVbYoCHEHe3aPOd3n9Bi9f27ZkMn61M+fJ0GpOSHuUJU0Zu3sfknZ3hZmIDUtoP0a9zIDLbK9RW0ZCkDonJqhmgW5xeqHmv8ff8Priq7Lh0Q0/Ga5NQCPxh+3MBRarOnmA+suvQJ/TdqxSWty06q0InEkRl7RDvOdiFAkaPlXjQDRPBmui+tcC4JFXAKDBqRBYZFLamYpTNxUwIFFE7gooc16NzFMRyHaCRSzGCBEsg8G4ZyDIpLrpGY+hkk87+AgUhRc9JaYHd0s+RJvLRiVoAX9h2hodbZdbmH9Hf1RFKflAeuNvMc4DG2fzy+4Ik8xZ//4UcSBY6oww3lYCsHGlNBIG0S2qetc1YtaQ7W50YJRCVpA/4FoaHVee7kVPn9HfxTFDZSq4Bt5j90DAy19B3LRrJ0ot3LJ/vEjIg5wTBWYwYXFyhCwVQ9LaKQlDEhtEx21cl017fK6+n47ABfmgUoMUaLRk2JVp3m0+nA0DQA=') format('woff2'),
+  url('iconfont.woff?t=1615107848120') format('woff'),
+  url('iconfont.ttf?t=1615107848120') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1615107848120#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-mima:before {
+  content: "\e605";
+}
+
+.icon-yonghu:before {
+  content: "\e640";
+}
+
